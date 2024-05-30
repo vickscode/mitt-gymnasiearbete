@@ -1,0 +1,121 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: whitesmoke;
+}
+
+.topnav {
+    background-color: rgb(2, 52, 2);;
+    overflow: hidden;
+}
+
+.topnav a {
+    float: right;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.overlay-image {
+    position: absolute;
+    top: 20px;
+    left: 110px;
+}
+
+
+.manal-image {
+    left:70px ;
+    height: 300px;
+    top: 650px;
+    position: absolute;
+    
+
+}
+
+
+.box {
+    
+    text-align: center;
+    position: relative;
+    padding: 20px;
+    background-color: rgb(171, 197, 171); 
+    border-radius: 50px;
+   width: 500px;
+   height: 500;
+   margin-left: 450px;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1{
+    font-size: 20px;
+}
+
+
+.ung1{
+    margin-top: 20px;
+    margin-left: 900px;
+    
+}
+
+
+.text1{
+    font-size: 25px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    background-color:  rgb(171, 197, 171); ;
+    width: 300px;
+    margin-left: 100px;
+    margin-top: 100px;
+
+}
+
+
+
+.lång{
+    width: 1530;
+    height: 50px;
+    background-color:  rgb(2, 52, 2);
+}
+
+.här{
+    text-align: center;
+    margin-top: 40px;
+    font-size: 40px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+}
+
+.biggie{
+    margin-top:40px ;
+    width: 1500px;
+    height: 200px;
+    font-size: 20px;
+    background-color:rgb(171, 197, 171); 
+    border-radius: 30px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+}
+
+.infok{
+    margin-top: 200px;
+    width: 1500px;
+    height: 300px;
+    background-color:rgb(171, 197, 171); 
+    font-size: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+}
+
+
+
+.viktoria{
+    height: 50px;
+    width: 1520px;
+    margin-top: 200px;
+    background-color:  rgb(2, 52, 2);;;
+}
+
